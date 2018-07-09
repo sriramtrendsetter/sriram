@@ -6,6 +6,7 @@ public class Demo7777 {
 		System.out.println("in second class");
 		System.out.println("happy");
 		System.out.println();
+		System.out.println();
 	}
 
 }
