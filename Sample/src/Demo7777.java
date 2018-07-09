@@ -5,6 +5,7 @@ public class Demo7777 {
 		// TODO Auto-generated method stub
 		System.out.println("in second class");
 		System.out.println("happy");
+		System.out.println();
 	}
 
 }
