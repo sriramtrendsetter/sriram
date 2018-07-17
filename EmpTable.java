@@ -61,7 +61,7 @@ public class EmpTable {
         	System.out.println("or path does not exist");
         }
 	  document.open();
-	  document.add(new Paragraph("Employee Details:-"));
+	  document.add(new Paragraph("Employee Details:- \n"));
           document.add(table);
 	  document.close();
 	  System.out.println("Done");
